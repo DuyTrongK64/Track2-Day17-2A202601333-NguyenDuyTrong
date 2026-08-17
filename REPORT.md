@@ -1,6 +1,6 @@
 # Báo cáo LAB 17 — Data Pipeline Engineering
 
-**Họ tên:** Nguyễn Duy Trọng  **Mã SV:** 2A202601333  **Ngày:** 2026-08-17
+**Họ tên:** Nguyễn Duy Trọng  **Mã SV:** 2A202601333 **Ngày:** 2026-08-17
 
 ---
 
